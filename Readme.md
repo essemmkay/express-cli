@@ -52,6 +52,7 @@ To use the package, run the following command in your terminal:
 
     ```shell
     create-express-ts-app <app-name>
+    ```
 
 Replace <app-name> with the desired name for your Express app.
 
@@ -59,5 +60,6 @@ For example, if the app name is `hello-world`, you can run:
 
     ```shell
     create-express-ts-app hello-world
+    ```
 
 This will create a new Express app named `hello-world` using the CLI tool.
