@@ -9,7 +9,7 @@ To run this Express app locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/essemmkay/express-cli.git
+   git clone <repository-url>
 
    ```
 
@@ -50,16 +50,12 @@ To run this Express app locally, follow these steps:
 
 To use the package, run the following command in your terminal:
 
-    ```shell
     create-express-ts-app <app-name>
-    ```
 
 Replace <app-name> with the desired name for your Express app.
 
 For example, if the app name is `hello-world`, you can run:
 
-    ```shell
     create-express-ts-app hello-world
-    ```
 
 This will create a new Express app named `hello-world` using the CLI tool.
