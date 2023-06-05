@@ -9,7 +9,7 @@ To run this Express app locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/essemmkay/express-cli.git
 
    ```
 
