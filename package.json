@@ -1,6 +1,16 @@
 {
+  "name": "create-express-ts-app",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Syed Murtaz Haider",
+    "email": "murtazshah@gmail.com"
+  },
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
+  },
+  "bin": {
+    "create-express-ts-app": "dist/index.js"
   }
 }
